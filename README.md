@@ -9,7 +9,6 @@ and manage a content-based website while applying basic SEO principles.
 
 Live website: https://egitimveyapayzeka.com
 
----
 
 ## What This Project Shows
 
@@ -17,7 +16,6 @@ Live website: https://egitimveyapayzeka.com
 - I have foundational knowledge of SEO
 - I am interested in artificial intelligence and AI-related content
 
----
 
 ## Website & SEO Work
 
@@ -27,7 +25,6 @@ Live website: https://egitimveyapayzeka.com
 - robots.txt configuration
 - Basic website performance testing
 
----
 
 ## AI Focus
 
@@ -39,7 +36,6 @@ The website content is centered on:
 This project reflects my early interest in AI and how it can be integrated
 into real-world digital platforms such as websites.
 
----
 
 ## Tools & Technologies
 
@@ -49,7 +45,6 @@ into real-world digital platforms such as websites.
 - Basic SEO tools
 - Website performance testing tools
 
----
 
 ## Project Context
 
