@@ -50,20 +50,34 @@ into real-world digital platforms such as websites.
 
 This project was completed as part of a university course assignment.
 
-### Homepage
-<img width="716" height="322" alt="Screenshot 2025-12-18 at 6 39 23 PM" src="https://github.com/user-attachments/assets/e5720ecd-1649-4906-b97a-735fddb48b01" />
+
+
+### Website Homepage
+This screenshot shows the main homepage of the website, demonstrating the overall design and AI-focused content structure.
+
+<img width="710" height="323" alt="Screenshot 2025-12-18 at 6 52 36 PM" src="https://github.com/user-attachments/assets/66e65896-16de-4548-959f-4a5b3a3fe5af" />
+
 
 
 ### Menu Structure
-<img width="690" height="385" alt="Screenshot 2025-12-18 at 6 40 32 PM" src="https://github.com/user-attachments/assets/802bee5c-8d3e-433e-9017-8176beebeda7" />
+The menu structure reflects content organization and user navigation planning.
+
+<img width="719" height="364" alt="Screenshot 2025-12-18 at 6 54 07 PM" src="https://github.com/user-attachments/assets/175d5d7d-fa7a-4085-9ffd-ee61a74d6586" />
 
 
-### Robots.txt Configuration
-<img width="712" height="406" alt="Screenshot 2025-12-18 at 6 39 37 PM" src="https://github.com/user-attachments/assets/bbdebf00-d35b-4989-a2e0-b2dce34107b7" />
+
+### robots.txt Configuration
+This file controls search engine crawling behavior and shows basic SEO awareness.
+
+<img width="707" height="300" alt="Screenshot 2025-12-18 at 6 52 53 PM" src="https://github.com/user-attachments/assets/ce7caca1-cd2b-49a1-8137-84aed313fbc9" />
 
 
 
 ### XML Sitemap
-<img width="716" height="322" alt="Screenshot 2025-12-18 at 6 39 23 PM" src="https://github.com/user-attachments/assets/6cf2055c-3a5e-456d-bd6a-c48fa120d9f9" />
+The XML sitemap helps search engines index website content properly.
+
+<img width="712" height="320" alt="Screenshot 2025-12-18 at 6 53 15 PM" src="https://github.com/user-attachments/assets/2d705eb3-0469-4bd9-b24d-7eada375271a" />
+
+
 
 
